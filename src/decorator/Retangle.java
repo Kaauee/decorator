@@ -8,11 +8,11 @@ package decorator;
  *
  * @author alunopb
  */
-public class Retangle implements Shape{
+public class Retangle implements Shape {
 
     @Override
     public void Draw() {
         System.out.println("Forma: Retangulo");
     }
-    
+
 }

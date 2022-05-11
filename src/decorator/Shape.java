@@ -9,5 +9,6 @@ package decorator;
  * @author alunopb
  */
 public interface Shape {
+
     public void Draw();
 }

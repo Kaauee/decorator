@@ -8,11 +8,11 @@ package decorator;
  *
  * @author alunopb
  */
-public class Circle implements Shape{
+public class Circle implements Shape {
 
     @Override
     public void Draw() {
-        System.out.println("Forma: Circulo"); 
+        System.out.println("Forma: Circulo");
     }
-    
+
 }
